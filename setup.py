@@ -2,11 +2,11 @@ from setuptools import setup, find_packages
 
 setup(
     name='django-app-plugins',
-    version='0.1.1',
+    version='0.1.2',
     description='',
-    author='Doug Napoleone',
-    author_email='doug.napoleone@gmail.com',
-    url='http://code.google.com/p/django-app-plugins/',
+    author='Doug Napoleone, Thomas Rega',
+    author_email='doug.napoleone@gmail.com, thoreg@gmail.com',
+    url='https://github.com/thoreg/django-app-plugins',
     packages=find_packages(),
     classifiers=[
         'Development Status :: 3 - Alpha',
