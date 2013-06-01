@@ -1,10 +1,10 @@
 Metadata-Version: 1.0
 Name: django-app-plugins
-Version: 0.1.1
-Summary: UNKNOWN
-Home-page: http://code.google.com/p/django-app-plugins/
-Author: Doug Napoleone
-Author-email: doug.napoleone@gmail.com
+Version: 0.1.2
+Summary: reusable django application for writting pluggable reusable django applications
+Home-page: https://github.com/thoreg/django-app-plugins
+Author: Doug Napoleone, Thomas Rega
+Author-email: doug.napoleone@gmail.com, thoreg@gmail.com
 License: UNKNOWN
 Description: UNKNOWN
 Platform: UNKNOWN

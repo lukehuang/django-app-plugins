@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name='django-app-plugins',
     version='0.1.2',
-    description='',
+    description='reusable django application for writting pluggable reusable django applications',
     author='Doug Napoleone, Thomas Rega',
     author_email='doug.napoleone@gmail.com, thoreg@gmail.com',
     url='https://github.com/thoreg/django-app-plugins',
